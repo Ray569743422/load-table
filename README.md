@@ -6,6 +6,10 @@
 ### Prerequisites
 #### python3 + linux
 ---
+## General usage
+```
+python load.py -data data -database database -tableName tableName -dropTable bool -primaryKey *** -host *** -user *** -password ***
+```
+---
 ## Authors
-* wangrui
 * email: wangrui569743422@gmail.com
