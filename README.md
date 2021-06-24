@@ -5,6 +5,9 @@
 ## Getting started
 ### Prerequisites
 #### python3 + linux
+```
+git clone 
+```
 ---
 ## General usage
 ```
