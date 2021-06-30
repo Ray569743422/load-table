@@ -6,7 +6,7 @@
 ### Prerequisites
 #### python3 + linux
 ```
-git clone 
+git clone https://github.com/Ray569743422/load-table.git
 ```
 ---
 ## General usage
