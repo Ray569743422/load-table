@@ -1,4 +1,4 @@
-# Load table
+# Upload data
 > Load table with many colums in Mysql
 ### This script aims to load table with many columns in mysql that can reduce the time spending on the mysql command.
 ---
